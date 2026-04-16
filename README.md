@@ -35,6 +35,7 @@ Um dos diferenciais do projeto é a implementação de um assistente virtual, qu
 - Interações básicas com JavaScript
 - Assistente virtual integrado
 - Manipulação de elementos na página
+
 ⚠️ Responsividade
 
 Este projeto foi desenvolvido inicialmente com foco em desktop, sem responsividade.
@@ -45,4 +46,4 @@ Ele faz parte do meu processo de evolução e pode receber melhorias futuras par
 <br>
 <br>
 💻 Desktop
-
+<img src="https://github.com/joaovictor160jv-sys/Starbucks/blob/main/img/StarBucks.png.png?raw=true">
